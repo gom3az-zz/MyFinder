@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GorideTask</string>
+    <string name="facebook_app_id">197481244219498</string>
+    <string name="tool_bar_signoff">Sign out</string>
+    <string name="tool_bar_location">find location</string>
+    <string name="fb_login_protocol_scheme">fb197481244219498</string>
+</resources>
