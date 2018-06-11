@@ -7,9 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* [Maps](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-* [Facebook login](https://developer.android.com/guide/topics/ui/layout/cardview)
-* [volley](https://github.com/google/gson)
+* [Maps](https://developers.google.com/maps/documentation/android-sdk/intro)
+* [Facebook login](https://developers.facebook.com/docs/facebook-login/android/)
+* [volley](https://developer.android.com/training/volley/)
 * [glide](https://github.com/bumptech/glide)
 
 ## Authors
